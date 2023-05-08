@@ -1,0 +1,29 @@
+<CURRYCOOKY>
+    <OUTPUT>
+        <EBELN>63725046</EBELN>
+        <IHREZ/>
+        <LIFNR>A353</LIFNR>
+        <NAME1>currycooky</NAME1>
+        <LGORT>warehouse</LGORT>
+    </OUTPUT>
+    <TABLES>
+        <O_HEAD>
+            <item>
+                <EBELN>63725046</EBELN>
+                <IHREZ/>
+                <LIFNR>A353</LIFNR>
+                <NAME1>currycooky</NAME1>
+                <LGORT>warehouse</LGORT>
+            </item>
+        </O_HEAD>
+        <O_ITEM>
+            <item>
+                <EBELN>63725046</EBELN>
+                <IHREZ/>
+                <LIFNR>A353</LIFNR>
+                <NAME1>currycooky</NAME1>
+                <LGORT>warehouse</LGORT>
+            </item>
+        </O_ITEM>
+    </TABLES>
+</CURRYCOOKY>
